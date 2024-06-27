@@ -6,6 +6,8 @@ export const MyFirstComponent = () => {
       <div>MyFirstComponent</div>
       <div>Hello World, I'm Inés María Oliveros</div>
       <div>27 de Junio de 2024</div>
+      <div>Holaaaa</div>
+      <div>Holaaaa</div>
     </>
   )
 }

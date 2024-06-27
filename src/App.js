@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <MyFirstComponent />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit  HOLA <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
